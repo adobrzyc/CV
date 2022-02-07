@@ -1,7 +1,7 @@
 # Adrian Dobrzycki
 
 ## About me
-*SOLID-ly oriented on design pattern .NET developer/architect with over 15 years of experience. Big fan of the modular monolith approach and SOA architecture. Open source contributor, frameworks, and libraries creator. Uses SQL to set up new relations. Loving testing and 'it depends' design pattern.* 
+SOLID-ly oriented on design pattern .NET developer/architect with over 15 years of experience. Big fan of the modular monolith approach and SOA architecture. Open source contributor, frameworks, and libraries creator. Uses SQL to set up new relations. Loving testing and 'it depends' design pattern.
 
 ## Contact
 - adrian.dobrzycki@gmail.com
@@ -34,7 +34,7 @@
 ### 03.2021 - till now - Senior .NET Developer - one of the biggest European e-commerce company 
 Working on highly loaded products in a supply chain area.
 
-*Modulor monolith (SOA), .NET Core 3+, .NET 6.0, PostgreSQL, CQRS, DDD, Dapper, RabbitMq, Kafka, GIT, REST, GitLab, Docker, Jira, Rancher, Scrum*
+*Modular monolith (SOA), .NET Core 3+, .NET 6.0, PostgreSQL, CQRS, DDD, Dapper, RabbitMq, Kafka, GIT, REST, GitLab, Docker, Jira, Rancher, Scrum*
   
 ### 06.2018 - 09.2020 - Senior .NET Developer (core team member) - PGE Systemy S.A.
 As a member of the core team, I had the possibility to design architecture and core functionalities for the application, developed by dozens of teams and almost a hundred developers.
@@ -52,7 +52,7 @@ Designing architecture and development standards for high performant and scalabl
   - designing system architecture 
   - managing team, tasks sharing, mentoring
   
-*Modulor monolith (SOA), NET Core 2.0+, NET 4.6+, CQRS,  T-SQL, MySql, EF6, IIS, WinForms + DevExpress, WCF (including SOAP), TCP/IP, GIT, VSTS, TeamCity, Octopus Deploy*
+*Modular monolith (SOA), NET Core 2.0+, NET 4.6+, CQRS,  T-SQL, MySql, EF6, IIS, WinForms + DevExpress, WCF (including SOAP), TCP/IP, GIT, VSTS, TeamCity, Octopus Deploy*
 
 ### 01.2012 - 01.2014 - Senior .NET Developer - PPH POLCAR
 Maintaining and extending internal systems.
